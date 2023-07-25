@@ -1,0 +1,10 @@
+* cl-libusb
+
+Common Lisp bindings to libusb-0.1
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/soemraws/cl-libusb.git   |
+| commit  | 2472da0  |
+| systems | cl-libusb |
+|---------+-------------------------------------------|
+
